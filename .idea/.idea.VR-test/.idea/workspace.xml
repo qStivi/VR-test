@@ -2,9 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1f6f152-25ad-4742-9f51-4772c184c3f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR-test/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR-test/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CustomSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PlayerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PlayerController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR-test/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR-test/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VR-test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR-test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Prefabs/ArrowHand.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Prefabs/ArrowHand.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Prefabs/FireWhip.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Prefabs/FireWhip.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Prefabs/Longbow.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Prefabs/Longbow.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Poses/CubePose small.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Poses/CubePose small.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Poses/CubePose.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Poses/CubePose.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_buggy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_buggy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_default.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_default.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_mixedreality.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_mixedreality.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_platformer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_platformer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR_Input/SteamVR_Input_ActionSets.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR_Input/SteamVR_Input_ActionSets.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR_Input/SteamVR_Input_Actions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR_Input/SteamVR_Input_Actions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/actions.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/actions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/binding_vive_tracker_camera.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/binding_vive_tracker_camera.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_holographic_controller.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_holographic_controller.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_knuckles.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_knuckles.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_logitech_stylus.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_logitech_stylus.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_oculus_touch.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_oculus_touch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_vive_controller.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_vive_controller.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_vive_cosmos_controller.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/bindings_vive_cosmos_controller.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +44,17 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Walking.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.management@3.2.13/Runtime/XRManagerSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07C8F6DA-62F4-4C3B-813E-382BA794C1E4/90/10daeed8/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CustomSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07C8F6DA-62F4-4C3B-813E-382BA794C1E4/6b/eed90332/Collider.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/SelectMovement.cs" />
       <option value="$PROJECT_DIR$/Assets/Walking.cs" />
+      <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/CustomSettings.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lyg8ruNP7UUMarbkyKm7dDKgIg" />
@@ -46,6 +80,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -77,6 +112,9 @@
       <option name="presentableId" value="Default" />
       <updated>1608574592475</updated>
       <workItem from="1608574603263" duration="6337000" />
+      <workItem from="1608650538492" duration="3461000" />
+      <workItem from="1608654916706" duration="64000" />
+      <workItem from="1608655009013" duration="8919000" />
     </task>
     <servers />
   </component>
@@ -95,6 +133,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
